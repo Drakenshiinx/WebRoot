@@ -5,8 +5,13 @@
     margin-right: auto;
     width: 50%;
 }
+
 .cursive {
     font-family: cursive;
+}
+
+.column {
+    width:50%
 }
 
 h1, p {
