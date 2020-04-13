@@ -22,8 +22,12 @@
     margin-left:auto
 }
 
-h1, p {
-      font-family: Georgia;
+h1 {
+    font-family: Georgia;
+}
+
+p {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
   .text-center {
@@ -34,5 +38,5 @@ h1, p {
     padding-bottom:30px;
     margin-bottom:30px;
     color:inherit;
-    background-color:rgb(185, 227, 255)
+    background-color:rgb(51, 167, 245)
 }
