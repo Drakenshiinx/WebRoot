@@ -11,7 +11,7 @@
 }
 
 .row {
-    column-count: 1;
+    column-count: 2;
 
 }
 
@@ -37,5 +37,5 @@ p {
     opacity: 0.5;
     text-align: center;
     color:inherit;
-    background-color:rgb(69, 116, 67)
+    background-color:rgb(70, 67, 116)
 }
