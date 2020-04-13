@@ -34,7 +34,8 @@ p {
     padding-top:30px;
     padding-bottom:30px;
     margin-bottom:30px;
+    opacity: 0.5;
     text-align: center;
     color:inherit;
-    background-color:rgb(51, 167, 245)
+    background-color:rgb(67, 96, 116)
 }
