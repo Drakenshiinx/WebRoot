@@ -1,9 +1,10 @@
 .img-rounded {
-    border-radius:6px;
+    border-radius:10px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+    object-fit: cover;
 }
 
 .cursive {
@@ -11,18 +12,20 @@
 }
 
 .row {
-    column-count: 2;
-    column-gap: 40px;
+    columns: 300px 2;
+    padding-bottom: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
-
+.container {
+    padding-right:15px;
+    padding-left:15px;
+    margin-right:auto;
+    margin-left:auto
+}
 
 h1 {
-    font-family: Georgia;
-}
-
-p {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .text-center {
@@ -32,5 +35,5 @@ p {
     opacity: 0.5;
     text-align: center;
     color:inherit;
-    background-color:rgb(67, 96, 116)
+    background-color:rgb(70, 67, 116)
 }
