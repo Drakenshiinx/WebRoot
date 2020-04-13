@@ -10,13 +10,9 @@
     font-family: cursive;
 }
 
-.col-sm-6 {
-    width:50%
-}
-
 .row {
-    margin-right:-15px;
-    margin-left:-15px
+    column-count: 2;
+    column-gap: 40px;
 }
 
 .container {
