@@ -9,6 +9,10 @@
     font-family: cursive;
 }
 
+.column {
+    width:50%
+}
+
 h1, p {
       font-family: Georgia;
 }
