@@ -30,13 +30,11 @@ p {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
-  .text-center {
-      text-align:center
-}
-.header {
+.text-center {
     padding-top:30px;
     padding-bottom:30px;
     margin-bottom:30px;
+    text-align: center;
     color:inherit;
     background-color:rgb(51, 167, 245)
 }
