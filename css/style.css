@@ -12,10 +12,7 @@
     font-family: cursive;
 }
 
-.row {
-    columns: 300px 2;
-    padding-bottom: 20px;
-    padding-top: 20px;
+.listed-resources {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
